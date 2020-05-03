@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+    background-color: #c5c5c5;
+    padding: 30px;
+}
+.header >h1 {
+    display: inline-block;
+    color: tomato; 
+    margin: auto;
+ 
+}
+.header >p {
+    color: #fff;
+}
+
+main {
+    margin: 10px 50px;
+}
